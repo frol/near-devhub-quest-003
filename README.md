@@ -1,4 +1,4 @@
-# NEAR DevHub Quest 002
+# NEAR DevHub Quest 003
 
 It is the second quest in the [NEAR DevHub](https://dev.near.org) Quests. Learn more in the [most recent DevHub Live episode](https://www.youtube.com/live/BzoBrTYCNBk?feature=shared&t=2857).
 
