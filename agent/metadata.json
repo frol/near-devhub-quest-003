@@ -1,0 +1,22 @@
+{
+  "name": "DevHub-Quest-003",
+  "version": "0.0.13",
+  "description": "Welcome to NEAR DevHub Quest 003. You have a chance to win 50 NEAR tokens! 🚀 Learn more at https://github.com/frol/near-devhub-quest-003",
+  "category": "agent",
+  "tags": [],
+  "details": {
+    "agent": {
+      "welcome": {
+        "description": "Welcome to NEAR DevHub Quest 003. You have a chance to win 50 NEAR tokens! 🚀",
+        "title": "near/dev/quest 003"
+      },
+      "defaults": {
+        "model": "llama-v3p1-70b-instruct",
+        "model_provider": "fireworks",
+        "model_temperature": 1.0,
+        "model_max_tokens": 16384
+      }
+    }
+  },
+  "show_entry": true
+}
