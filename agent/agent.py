@@ -65,7 +65,7 @@ def run(env: Environment):
         quest_account.create_delegate_action(
             actions=[
                 create_function_call_action(
-                    method_name="register",
+                    method_name="register_account",
                     args=json.dumps({"account_id": near_wallet_account_id}).encode(),
                     gas=100 * 10**12,
                     deposit=0,
